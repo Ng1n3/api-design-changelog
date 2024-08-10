@@ -17,7 +17,7 @@ import {
 } from './handlers/updates';
 import { handleInputErrors } from './modules/middleware';
 
-const router = Router();
+const router:Router = Router();
 
 /**
  * product
